@@ -1,5 +1,5 @@
 
-# wangEditor
+# wangEditor（原作者的readme，未更改）
 
 ## 介绍
 
